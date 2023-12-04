@@ -14,24 +14,24 @@
  *= require_self
  */
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .loading-message {
-    font-size: 24px;
-    color: red;
+  font-size: 24px;
+  color: red;
 }
 
 .error-message {
-    font-size: 24px;
-    color: red;
+  font-size: 24px;
+  color: red;
 }
 
 .greeting-message {
-    font-size: 60px;
-    color: blue;
+  font-size: 60px;
+  color: blue;
 }
